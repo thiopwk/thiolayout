@@ -85,6 +85,18 @@
     top: 50%;
     color: rgb(3, 3, 3);
   }
+
+  .dropdown-content {
+    color: white;
+  }
+
+  .card {
+    color: white;
+  }
+
+  .dropdown {
+    color: white;
+  }
   
   .img-content {
     padding-top: 50px;
